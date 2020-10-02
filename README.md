@@ -4,7 +4,7 @@ Complete Authenication System
  - Login 
  - Continue with facebook / Google
  - Password reset
- - Userinformation update
+ - User information update
  
  API for this project is available in Mern-Auth-Api.
 
