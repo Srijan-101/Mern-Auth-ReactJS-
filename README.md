@@ -1,6 +1,6 @@
 Complete Authenication System
  - Sign up
- - email verification
+ - Email verification
  - Login 
  - Continue with facebook / Google
  - Password reset
